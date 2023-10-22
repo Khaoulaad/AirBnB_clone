@@ -1,15 +1,14 @@
 header {
-    background-color: #FF0000;
-    color: white; /* Text color */
+    background-color: white;
     height: 70px;
     width: 100%;
-    border-bottom: 1px solid #CCCCCC; /* Bottom border */
+    border-bottom: 1px solid #CCCCCC;
     display: flex;
     align-items: center;
 }
 
 header .logo {
-    width: 100px;
-    height: 70px;
-    background: white;
+    width: 120px;
+    height: 76px;
+    background: url("../images/logo.png")
     padding-left: 20px;
